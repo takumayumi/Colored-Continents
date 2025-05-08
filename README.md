@@ -1,3 +1,3 @@
 # Colored Continents
 
-Displays world map with colors by continents using [DataMaps](https://datamaps.github.io/).
+Displays a world map with each continent color-coded for visual distinction, powered by [DataMaps](https://datamaps.github.io/).
